@@ -20,7 +20,7 @@ const projects = {
     solution: 'We developed a creative concept that utilized parallel storytelling to showcase different products in complementary scenarios. Our team coordinated a complex shooting schedule across three locations, utilizing a consistent visual language to maintain brand cohesion.',
     tools: ['RED Komodo 6K', 'DJI Ronin 2', 'Aputure 600d Pro', 'Adobe Premiere Pro', 'DaVinci Resolve'],
     testimonial: {
-      quote: 'FrameFocus delivered beyond our expectations. The team's creativity and attention to detail resulted in a commercial that perfectly captures our brand essence while showcasing our products in an engaging way.',
+      quote: "FrameFocus delivered beyond our expectations. The team's creativity and attention to detail resulted in a commercial that perfectly captures our brand essence while showcasing our products in an engaging way.",
       name: 'Sarah Johnson',
       role: 'Marketing Director, Innovate Tech'
     },
@@ -42,7 +42,7 @@ const projects = {
     solution: 'We developed a concept using innovative lighting techniques, practical in-camera effects, and choreographed camera movements to create visually arresting sequences that complemented the music.',
     tools: ['Sony FX9', 'Zeiss CP.3 lenses', 'Quasar Science Rainbow 2', 'Adobe Premiere Pro', 'After Effects'],
     testimonial: {
-      quote: 'The FrameFocus team somehow managed to capture exactly what I heard in my head when I wrote this song. The visual storytelling elevated the music in ways I couldn\'t have imagined.',
+      quote: "The FrameFocus team somehow managed to capture exactly what I heard in my head when I wrote this song. The visual storytelling elevated the music in ways I couldn't have imagined.",
       name: 'Luna Ray',
       role: 'Artist, Echo Records'
     },
@@ -64,7 +64,7 @@ const projects = {
     solution: 'We deployed a team of videographers with synchronized equipment across all venues, established a central control room for live switching, and developed a streamlined post-production workflow for quick turnaround of daily highlights.',
     tools: ['Multiple Sony FX9 cameras', 'BlackMagic ATEM switcher', 'Sennheiser audio systems', 'OBS Studio', 'Adobe Premiere Pro'],
     testimonial: {
-      quote: 'FrameFocus handled our complex event with exceptional professionalism. The live streams were flawless, and the edited content was delivered faster than expected while maintaining outstanding quality.',
+      quote: "FrameFocus handled our complex event with exceptional professionalism. The live streams were flawless, and the edited content was delivered faster than expected while maintaining outstanding quality.",
       name: 'Michael Rodriguez',
       role: 'Events Coordinator, Global Conferences'
     },
